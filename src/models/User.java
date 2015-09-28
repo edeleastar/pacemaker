@@ -1,5 +1,7 @@
 package models;
 
+// comment
+
 public class User 
 {
   public String firstName;
